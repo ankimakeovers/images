@@ -22,5 +22,25 @@
       }
     ],
     "addons": []
+  },
+  {
+    "id": "nails-002",
+    "title": "rrttt",
+    "category": "nails",
+    "price": "",
+    "duration": "1h 30m",
+    "rating": "5.0 ★★★★★",
+    "reviews": "0 reviews",
+    "description": "",
+    "techniques": [],
+    "aftercare": "",
+    "images": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/ankimakeovers/images@main/image/velvet-2_f7a9c2.jpg",
+        "label": "Main Angle",
+        "alt": "rrttt"
+      }
+    ],
+    "addons": []
   }
 ]
