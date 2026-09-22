@@ -1,0 +1,26 @@
+[
+  {
+    "id": "nails-001",
+    "title": "gogogo",
+    "category": "nails",
+    "price": "234",
+    "duration": "1h 30m",
+    "rating": "5.0 ★★★★★",
+    "reviews": "34",
+    "description": "",
+    "techniques": [
+      "doll",
+      "foll",
+      "moll"
+    ],
+    "aftercare": "sdfadsfdf",
+    "images": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/ankimakeovers/images@main/image/nail-2_f59a9f.jpeg",
+        "label": "Main Angle",
+        "alt": "gogogo"
+      }
+    ],
+    "addons": []
+  }
+]
