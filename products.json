@@ -62,5 +62,25 @@
       }
     ],
     "addons": []
+  },
+  {
+    "id": "nails-004",
+    "title": "ththth",
+    "category": "nails",
+    "price": "234",
+    "duration": "1h 30m",
+    "rating": "5.0 ★★★★★",
+    "reviews": "0 reviews",
+    "description": "",
+    "techniques": [],
+    "aftercare": "",
+    "images": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/ankimakeovers/images@main/image/bride-1_56c744.jpeg",
+        "label": "Main Angle",
+        "alt": "ththth"
+      }
+    ],
+    "addons": []
   }
 ]
