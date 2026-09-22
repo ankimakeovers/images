@@ -1,1 +1,49 @@
-
+[
+  {
+    "id": "nail-001",
+    "title": "chrome",
+    "category": "nails",
+    "price": "1,500",
+    "duration": "1h 30m",
+    "rating": "5.0 ★★★★★",
+    "reviews": "3 reviews",
+    "description": "sdfdsfadfdf",
+    "techniques": [
+      "trererr",
+      "fdsfdfd",
+      "afsdfdf"
+    ],
+    "aftercare": "go to hell",
+    "images": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/ankimakeovers/images@main/image/chrome-1_bcc14b.jpg",
+        "label": "top",
+        "alt": "top of chrome"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/ankimakeovers/images@main/image/chrome-2_c1bafd.jpg",
+        "label": "middle",
+        "alt": "middle of chrome"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/ankimakeovers/images@main/image/chrome-3_d26116.jpg",
+        "label": "bottom",
+        "alt": "bottom of chrome"
+      }
+    ],
+    "addons": [
+      {
+        "name": "sdfdfdf",
+        "price": 90
+      },
+      {
+        "name": "fdsfsdf",
+        "price": 10
+      },
+      {
+        "name": "asdfadsf",
+        "price": 20
+      }
+    ]
+  }
+]
