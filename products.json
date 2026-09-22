@@ -45,43 +45,5 @@
         "price": 20
       }
     ]
-  },
-  {
-    "id": "makeup-001",
-    "title": "frome",
-    "category": "makeup",
-    "price": "1200",
-    "duration": "1h 30m",
-    "rating": "5.0 ★★★★★",
-    "reviews": "0 reviews",
-    "description": "",
-    "techniques": [],
-    "aftercare": "",
-    "images": [
-      {
-        "url": "https://cdn.jsdelivr.net/gh/ankimakeovers/images@main/image/fan-1_c9fab0.jpeg",
-        "label": "Front View",
-        "alt": "Front View of frome"
-      },
-      {
-        "url": "https://cdn.jsdelivr.net/gh/ankimakeovers/images@main/image/fan-2_23f2ca.jpeg",
-        "label": "Side Angle",
-        "alt": "Side Angle of frome"
-      }
-    ],
-    "addons": [
-      {
-        "name": "dfdf",
-        "price": 3
-      },
-      {
-        "name": "fsdfdsf",
-        "price": 7
-      },
-      {
-        "name": "sdfdsf",
-        "price": 1
-      }
-    ]
   }
 ]
